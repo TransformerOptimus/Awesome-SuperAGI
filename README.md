@@ -57,7 +57,7 @@ Awesome Repository of
 <hr>
 
 
-## Awesome Twitter Agents
+## Awesome SuperAGI Twitter Agents
 
 <details>
 <summary>
@@ -91,7 +91,7 @@ A SuperAGI agent that create bite-sized sci-fi stories and tweets it along with 
 </details>
 
 
-## Awesome SuperCoder Apps
+## Awesome Apps created using SuperCoder Agent Template
 
 [Snake Game](https://superagi.com/supercoder/#SnakeGame)
 
