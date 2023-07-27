@@ -56,6 +56,30 @@ Awesome Repository of
 </p>
 <hr>
 
+
+## Awesome Twitter Agents
+
+<details>
+<summary>
+<a href="https://twitter.com/_SkyAGI" target="blank">
+<img src="https://img.shields.io/twitter/follow/_SkyAGI?label=_SkyAGI&style=social" alt="_SkyAGI"/>
+</a>
+</summary>
+A regularly-scheduled SuperAGI agent that finds the latest AI news from the internet and tweets it with relevant mentions and hashtags.
+</details>
+
+
+<details>
+<summary>
+
+<a href="https://twitter.com/_superkittens" target="blank">
+<img src="https://img.shields.io/twitter/follow/_superkittens?label=_superkittens&style=social" alt="_superkittens"/>
+</a>
+</summary>
+A SuperAGI agent disguised as a Twitter bot created using SuperAGI that is scheduled to tweet unique 8-bit images of superhero kittens along with captions and relevant hashtags.
+</details>
+
+
 ## Use Cases of Autonomous AI Agents
 
 <details>
