@@ -192,3 +192,17 @@ Sales Engagement
 </summary>
 Autonomous agents in sales engagement act as tireless, 24/7 sales representatives. They can interact with potential customers, understand their needs through natural language processing, and recommend appropriate products or services. They can also handle initial inquiries, schedule meetings, and follow up with prospects, thereby increasing efficiency and sales productivity. Additionally, these agents can gather and analyze data from interactions to provide valuable insights into customer behavior and preferences.
 </details>
+
+
+
+## Awesome Research and Learnings
+
+[Processing Structured & Unstructured Data with SuperAGI and LlamaIndex](https://superagi.com/processing-structured-unstructured-data-with-superagi-and-llamaindex/)
+
+[Understanding dedicated & shared tool memory in SuperAGI](https://superagi.com/understanding-how-dedicated-shared-tool-memory-works-in-superagi/)
+
+[AACP (Agent to Agent Communication Protocol)](https://superagi.com/introducing-aacp-agent-to-agent-communication-protocol/)
+
+[Agent Instructions: Autonomous AI Agent Trajectory Fine-Tuning](https://superagi.com/agent-instructions/)
+
+
