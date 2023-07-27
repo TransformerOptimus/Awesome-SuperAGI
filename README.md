@@ -1,6 +1,9 @@
-<h1 align="center">
+<h3 align="center">
+  
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<br><br>
 Awesome Repository of
-</h1>
+</h3>
 <p align="center">
   <a href="https://superagi.com//#gh-light-mode-only">
     <img src="https://superagi.com/wp-content/uploads/2023/05/Logo-dark.svg" width="318px" alt="SuperAGI logo" />
