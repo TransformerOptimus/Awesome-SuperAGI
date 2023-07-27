@@ -80,7 +80,36 @@ A SuperAGI agent disguised as a Twitter bot created using SuperAGI that is sched
 </details>
 
 
-## Use Cases of Autonomous AI Agents
+<details>
+<summary>
+
+<a href="https://twitter.com/_ministories" target="blank">
+<img src="https://img.shields.io/twitter/follow/_ministories?label=_ministories&style=social" alt="_ministories"/>
+</a>
+</summary>
+A SuperAGI agent that create bite-sized sci-fi stories and tweets it along with AI generated images and hashtags.
+</details>
+
+
+## Awesome SuperCoder Apps
+
+[Snake Game](https://superagi.com/supercoder/#SnakeGame)
+
+[Markdown Previewer](https://eloquent-cranachan-750575.netlify.app/)
+
+[Developer Jokes](https://zippy-entremet-770562.netlify.app/)
+
+[PDF-to-Image Converter](https://stirring-bublanina-6de87f.netlify.app/)
+
+[Pomodoro App](https://brilliant-beignet-df3779.netlify.app/)
+
+[Dino Game](https://ornate-rugelach-8cbcfb.netlify.app/)
+
+[Flappy Bird](https://clinquant-fox-3253a2.netlify.app/)
+
+
+
+## Awesome Use Cases of Autonomous AI Agents
 
 <details>
 <summary>
