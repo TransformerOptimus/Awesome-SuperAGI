@@ -101,11 +101,15 @@ A SuperAGI agent that create bite-sized sci-fi stories and tweets it along with 
 
 [PDF-to-Image Converter](https://stirring-bublanina-6de87f.netlify.app/)
 
+[Note-taking App](https://flourishing-froyo-f3574c.netlify.app/)
+
 [Pomodoro App](https://brilliant-beignet-df3779.netlify.app/)
 
 [Dino Game](https://ornate-rugelach-8cbcfb.netlify.app/)
 
 [Flappy Bird](https://clinquant-fox-3253a2.netlify.app/)
+
+[Ciode Minifier](https://resilient-beijinho-ffa332.netlify.app/)
 
 
 
