@@ -109,7 +109,7 @@ A SuperAGI agent that create bite-sized sci-fi stories and tweets it along with 
 
 [Flappy Bird](https://clinquant-fox-3253a2.netlify.app/)
 
-[Ciode Minifier](https://resilient-beijinho-ffa332.netlify.app/)
+[Code Minifier](https://resilient-beijinho-ffa332.netlify.app/)
 
 
 
