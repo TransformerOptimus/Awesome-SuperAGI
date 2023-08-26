@@ -1,7 +1,8 @@
-# How to add your SuperAGI app to the Awesome repo?
+## How to add your SuperAGI app?
 
 - Create a fork of the Awesome-SuperAGI repo.
-- Add your app in a new branch.
+- Create a new branch.
+- Add the name of your app along with a short description of what it does.
 - Send a pull request to the main repo.
 
-Your SuperAGI app will be listed here as well as SuperAGI website at [App Spotlight](https://superagi.com/app-spotlight/)
+Your SuperAGI app will be listed here & at the [App Spotlight](https://superagi.com/app-spotlight/) page of SuperAGI.
