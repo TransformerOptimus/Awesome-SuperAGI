@@ -1,9 +1,3 @@
-<h3 align="center">
-  
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-<br><br>
-Awesome Repository of
-</h3>
 <p align="center">
   <a href="https://superagi.com//#gh-light-mode-only">
     <img src="https://superagi.com/wp-content/uploads/2023/05/Logo-dark.svg" width="318px" alt="SuperAGI logo" />
@@ -15,12 +9,31 @@ Awesome Repository of
 </p>
 
 <p align="center"><i>Open-source framework to build, manage and run useful Autonomous AI Agents</i></p>
-
+    
 
 <p align="center">
-<a href="https://superagi.com"> <img src="https://superagi.com/wp-content/uploads/2023/07/Website.svg"></a>
+<a href="https://superagi.com"> <img src="https://superagi.com/wp-content/uploads/2023/08/Website.svg"></a>
 <a href="https://app.superagi.com"> <img src="https://superagi.com/wp-content/uploads/2023/07/Cloud.svg"></a>
-<a href="https://marketplace.superagi.com/"> <img src="https://superagi.com/wp-content/uploads/2023/07/Marketplace.svg"></a>
+<a href="https://marketplace.superagi.com/"> <img src="https://superagi.com/wp-content/uploads/2023/08/Marketplace.svg"></a>
+<a href="https://superagi.com/docs/"> <img src="https://superagi.com/wp-content/uploads/2023/08/Docs.svg"></a>
+<a href="https://documenter.getpostman.com/view/28438662/2s9Xy6rqP5"> <img src="https://superagi.com/wp-content/uploads/2023/08/APIs.svg"></a>
+</p>
+
+<p align="center">
+<a href="https://github.com/TransformerOptimus/SuperAGI/fork" target="blank">
+<img src="https://img.shields.io/github/forks/TransformerOptimus/SuperAGI?style=for-the-badge" alt="SuperAGI forks"/>
+</a>
+
+<a href="https://github.com/TransformerOptimus/SuperAGI/stargazers" target="blank">
+<img src="https://img.shields.io/github/stars/TransformerOptimus/SuperAGI?style=for-the-badge" alt="SuperAGI stars"/>
+</a>
+<a href='https://github.com/TransformerOptimus/SuperAGI/releases'>
+<img src='https://img.shields.io/github/release/TransformerOptimus/SuperAGI?&label=Latest&style=for-the-badge'>
+</a>
+
+<a href="https://github.com/TransformerOptimus/SuperAGI/commits" target="blank">
+<img src="https://img.shields.io/github/commits-since/TransformerOptimus/SuperAGI/v0.0.11.svg?style=for-the-badge" alt="SuperAGI Commits"/>
+</a>
 </p>
 
 <p align="center"><b>Follow SuperAGI </b></p>
@@ -56,8 +69,20 @@ Awesome Repository of
 " target="blank">
 <img src="https://img.shields.io/twitter/url?label=Reddit&logo=Reddit&style=social&url=https://github.com/TransformerOptimus/SuperAGI" alt="Share on Reddit"/>
 </a> <a href="mailto:?subject=Check%20this%20GitHub%20repository%20out.&body=SuperAGI%20-%20Let%27s%20you%20easily%20build,%20manage%20and%20run%20useful%20autonomous%20AI%20agents.%3A%0Ahttps://github.com/TransformerOptimus/SuperAGI" target="_blank"><img src="https://img.shields.io/twitter/url?label=Gmail&logo=Gmail&style=social&url=https://github.com/TransformerOptimus/SuperAGI"/></a> <a href="https://www.buymeacoffee.com/superagi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="23" width="100" style="border-radius:1px"></a>
+
 </p>
+
 <hr>
+
+## Awesome SuperAGI Apps by the community
+
+<details>
+<summary>
+<a href="https://github.com/liskovich/RicAI_Autonomous_Agents_Hackathon" target="blank"> RicAI Autonomous Testing Agent </a>
+</summary>
+An Autonomous AI Agent for software testing that understands (complex) software requirements and business logic, generates test cases & provides feedback and test reports.
+</details>
+
 
 
 ## Awesome SuperAGI Twitter Agents
@@ -79,7 +104,7 @@ A regularly-scheduled SuperAGI agent that finds the latest AI news from the inte
 <img src="https://img.shields.io/twitter/follow/_superkittens?label=_superkittens&style=social" alt="_superkittens"/>
 </a>
 </summary>
-A SuperAGI agent disguised as a Twitter bot created using SuperAGI that is scheduled to tweet unique 8-bit images of superhero kittens along with captions and relevant hashtags.
+A SuperAGI agent disguised as a Twitter bot that is scheduled to tweet unique 8-bit images of superhero kittens along with captions and relevant hashtags.
 </details>
 
 
