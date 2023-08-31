@@ -78,12 +78,87 @@
 
 <details>
 <summary>
-<a href="https://github.com/liskovich/RicAI_Autonomous_Agents_Hackathon" target="blank"> RicAI Autonomous Testing Agent </a>
+RicAI Autonomous Testing Agent
 </summary>
-An Autonomous AI Agent for software testing that understands (complex) software requirements and business logic, generates test cases & provides feedback and test reports.
+An Autonomous AI Agent for software testing that understands (complex) software requirements and business logic, generates test cases & provides feedback and test reports.<a href="https://github.com/liskovich/RicAI_Autonomous_Agents_Hackathon" target="blank"> View here. </a>
 </details>
 
+<details>
+<summary>
+HR-Helper.ai
+</summary>
+HR-Helper reduces the time wasted on resume screening, It uses SuperAGI APIs to do the initial screening including basic background checks (scraping GitHub data of a user).<a href="https://github.com/kecoje/hr-agi-tool" target="blank"> View here. </a>
+</details>
 
+<details>
+<summary>
+SIMBAD - Microtargeting Solution
+</summary>
+Microtargeting Solution to develop a comprehensive microtargeting solution that leverages data-driven insights to create precise and high-converting ad campaigns.<a href="https://github.com/kecoje/hr-agi-tool](https://simbad.streamlit.app/" target="blank"> View here. </a>
+</details>
+
+<details>
+<summary>
+Tactical AI
+</summary>
+A project to run a low-cost simultaneous series of agents that interact with the same environmental conditions and collaborate on the same output documents.<a href="https://github.com/evolved-civilian/tacticalAI" target="blank"> View here. </a>
+</details>
+
+<details>
+<summary>
+Exponential workflows with STS
+</summary>
+Strategic Thinking Systems enable dynamic and real-time collaboration between multiple humans and multiple autonomous agents.<a href="https://app.sts42.com/auth/login" target="blank"> View here. </a>
+</details>
+
+<details>
+<summary>
+Remote Patriot
+</summary>
+An app that sources disabled veterans with the creation of personalized agents for each job seeker, revolutionizing the way veterans find and secure remote work. <a href="https://app.remotepatriot.com/agi" target="blank"> View here. </a>
+</details>
+
+<details>
+<summary>
+Agent Speak ToolKit
+</summary>
+The project leverages Agent Speak to create semantically rich communication channels between agents, leveraging Belief-Desire-Intention models to facilitate complex negotiations and decision-making processes within autonomous systems <a href="http://209.151.149.79:3000/" target="blank"> View here. </a>
+</details>
+
+<details>
+<summary>
+Web Summarizer Agent
+</summary>
+An innovative tool that automates the process of summarizing web content by combining advanced web scraping, powerful AI summarization, and seamless email delivery to provide concise and informative summaries of webpages, directly to your inbox. <a href="https://github.com/Vashistha-1802/QuantumQrew" target="blank"> View here. </a>
+</details>
+
+<details>
+<summary>
+SuperAGI No-Code
+</summary>
+SuperAGI No-Code allows businesses to dictate how autonomous agents should behave based on their business processes. The Zapier integration lets business people create much greater value in a much shorter payback period.
+</details>
+
+<details>
+<summary>
+FlowFacts AI - Deep research agent
+</summary>
+The agent conducts deep research, takes notes, and generates a research document summarizing a given claim. It follows a specific workflow, starting with the user providing a claim and supporting information. <a href="https://github.com/JamesHutchison/research-agi-agent" target="blank"> View here. </a>
+</details>
+
+<details>
+<summary>
+The Green Bean
+</summary>
+The Green Bean aims to provide intelligent and useful information on how sustainability regulations impact your specific business. <a href="https://green-bean.vercel.app/" target="blank"> View here. </a>
+</details>
+
+<details>
+<summary>
+Application AI for Students
+</summary>
+An app that streamlines and enhances the student application process. It guides students in writing effective and personalized applications & provides real-time feedback for improvement.
+</details>
 
 ## Awesome SuperAGI Twitter Agents
 
