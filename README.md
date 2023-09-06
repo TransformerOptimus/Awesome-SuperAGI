@@ -300,6 +300,8 @@ Autonomous agents in sales engagement act as tireless, 24/7 sales representative
 
 ## Awesome Research and Learnings
 
+[Building Autonomous Business Processes using AI Agent Workflows](https://superagi.com/building-autonomous-business-processes-using-ai-agent-workflows/)
+
 [Processing Structured & Unstructured Data with SuperAGI and LlamaIndex](https://superagi.com/processing-structured-unstructured-data-with-superagi-and-llamaindex/)
 
 [Understanding dedicated & shared tool memory in SuperAGI](https://superagi.com/understanding-how-dedicated-shared-tool-memory-works-in-superagi/)
@@ -307,6 +309,3 @@ Autonomous agents in sales engagement act as tireless, 24/7 sales representative
 [AACP (Agent to Agent Communication Protocol)](https://superagi.com/introducing-aacp-agent-to-agent-communication-protocol/)
 
 [Agent Instructions: Autonomous AI Agent Trajectory Fine-Tuning](https://superagi.com/agent-instructions/)
-
-[Building Autonomous Business Processes using AI Agent Workflows](https://superagi.com/building-autonomous-business-processes-using-ai-agent-workflows/)
-
