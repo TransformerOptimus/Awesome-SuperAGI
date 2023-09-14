@@ -300,6 +300,10 @@ Autonomous agents in sales engagement act as tireless, 24/7 sales representative
 
 ## Awesome Research and Learnings
 
+[Understanding Knowledge Embeddings in SuperAGI](https://superagi.com/knowledge-embeddings-in-superagi/)
+
+[Introduction to Agent Summary – Improving Agent Output by Using LTS & STM](https://superagi.com/introduction-to-agent-summary-improving-agent-output-by-using-lts-stm/)
+
 [Building Autonomous Business Processes using AI Agent Workflows](https://superagi.com/building-autonomous-business-processes-using-ai-agent-workflows/)
 
 [Processing Structured & Unstructured Data with SuperAGI and LlamaIndex](https://superagi.com/processing-structured-unstructured-data-with-superagi-and-llamaindex/)
